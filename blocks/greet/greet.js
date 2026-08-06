@@ -8,7 +8,7 @@ function buildLine(cell, className) {
   const text = cell ? cell.textContent.trim() : "";
   if (!text) return null;
 
-  const line = document.createElement("p");
+  const line = document.createElement("h1");
   line.className = className;
   line.textContent = text;
   return line;

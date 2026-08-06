@@ -9,5 +9,5 @@
 
 .greet .greet-greeting,
 .greet .greet-message {
-    margin: 0;
+    margin: 5px;
 }
