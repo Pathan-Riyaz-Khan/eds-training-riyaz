@@ -1,0 +1,13 @@
+.greet.greet-decorated {
+    font-weight: 700;
+    color: green;
+}
+
+.greet .greet-item {
+    margin: 0 0 16px;
+}
+
+.greet .greet-greeting,
+.greet .greet-message {
+    margin: 0;
+}
